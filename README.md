@@ -8,6 +8,8 @@
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
+View package on TestPyPI [here](https://test.pypi.org/project/pyospackage_nourshawk/)
+
 pyospackage-nourshawk is a project that (describe what it does here).
 
 ## Get started
